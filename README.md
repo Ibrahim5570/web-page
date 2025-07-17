@@ -22,13 +22,17 @@ I'm **Ibrahim**, a computer engineering student and aspiring full-stack develope
 
 ## 📂 Folder Structure
 / (root)
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 ## 🌍 Live Site
-[🔗 View it here](https://your-netlify-link-here.netlify.app)
+[🔗 View it here][(https://your-netlify-link-here.netlify.app](https://6878a1ffedb6916949837f7e--tubular-kitten-0fcc52.netlify.app))
 
 ## 📌 Upcoming Improvements
 - Add Projects section
@@ -38,9 +42,7 @@ I'm **Ibrahim**, a computer engineering student and aspiring full-stack develope
 
 ## 📬 Contact
 Feel free to connect with me on:
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-
+- GitHub: [@Ibrahim5570](https://github.com/Ibrahim5570)
 ---
 
 > This is just the beginning. More updates coming as I progress through my full-stack journey. Stay tuned!
